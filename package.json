@@ -1,0 +1,16 @@
+{
+  "name": "js-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Ashish Prajapati",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.10",
+    "vitest": "^1.6.0"
+  }
+}
